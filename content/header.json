@@ -8,12 +8,8 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
+        "title": "Empresa",
         "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
       }
     ],
     "phone_wpp": true,
@@ -27,5 +23,6 @@
   "desktop_megamenu": false,
   "search_input": true,
   "alphabetical_order_submenu": false,
-  "full_width_submenu": false
+  "full_width_submenu": false,
+  "centralized_logo": true
 }
