@@ -2,7 +2,7 @@
   "marketing_stripe": {
     "text": "A melhor maneira de escolher o convite ideal para o seu evento!",
     "link": "",
-    "background": "#241102",
+    "background": "#54320b",
     "color": "#ffffff"
   },
   "contacts_stripe": {
@@ -16,13 +16,15 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/casamento?Casamento"
+    ],
     "random": 6,
-    "full_width": false
+    "full_width": true
   },
   "desktop_megamenu": false,
-  "search_input": true,
+  "search_input": false,
   "alphabetical_order_submenu": false,
   "full_width_submenu": false,
-  "centralized_logo": true
+  "centralized_logo": false
 }
