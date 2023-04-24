@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "A melhor maneira de escolher o convite ideal para o seu evento!",
+    "text": "Aproveite nossas promoções de lançamento!",
     "link": "",
     "background": "#54320b",
     "color": "#ffffff"
@@ -8,7 +8,7 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Conheça a Grafjet Convites",
+        "title": "Empresa",
         "link": "/pages/sobre-nos"
       }
     ],
@@ -22,10 +22,11 @@
       "/aniversario?ANIVERSÁRIO",
       "/corporativos?ACESSÓRIOS",
       "/infantil?INFANTIL",
-      "/brabat-mitzva?BAR/BAT MITZVÁ"
+      "/brabat-mitzva?BAR/BAT MITZVÁ",
+      "/debutante-classica?Debutante Clássica"
     ],
     "random": 0,
-    "full_width": true
+    "full_width": false
   },
   "desktop_megamenu": true,
   "search_input": false,
