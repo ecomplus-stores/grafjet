@@ -1,7 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 50%!",
-    "link": "/promotion"
+    "text": "Simples ou sofisticados, convites para sonhar!",
+    "link": "",
+    "background": "#241102",
+    "color": "#7e6020"
   },
   "contacts_stripe": {
     "pages": [
