@@ -17,14 +17,19 @@
   },
   "categories_list": {
     "featured": [
-      "/casamento?Casamento"
+      "/convites?CASAMENTO",
+      "/casamento?15 ANOS",
+      "/aniversario?ANIVERSÁRIO",
+      "/corporativos?ACESSÓRIOS",
+      "/infantil?INFANTIL",
+      "/brabat-mitzva?BAR/BAT MITZVÁ"
     ],
-    "random": 6,
+    "random": 0,
     "full_width": true
   },
-  "desktop_megamenu": false,
+  "desktop_megamenu": true,
   "search_input": false,
-  "alphabetical_order_submenu": false,
-  "full_width_submenu": false,
+  "alphabetical_order_submenu": true,
+  "full_width_submenu": true,
   "centralized_logo": false
 }
