@@ -4,7 +4,7 @@
   "primary_color": "#241200",
   "theme": {
     "bootswatch": "materia",
-    "custom": "clean-white"
+    "custom": "_"
   },
   "bg_color": "#241200",
   "repository": "ecomplus-stores/grafjet",
