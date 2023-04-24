@@ -1,5 +1,11 @@
 {
-  "sort_categories": [],
+  "sort_categories": [
+    "convites",
+    "casamento",
+    "aniversario",
+    "corporativos",
+    "infantil"
+  ],
   "alphabetical_order": false,
   "phone_wpp": true,
   "socials": true
