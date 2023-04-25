@@ -1,7 +1,7 @@
 {
   "domain": "grafjet.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#241200",
+  "primary_color": "#97721d",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -18,9 +18,9 @@
   "favicon": "/img/uploads/favicon.png",
   "icons_font": "line-awesome",
   "country_code": "BR",
-  "secondary_color": "#7e6020",
+  "secondary_color": "#4c2705",
   "icon": "/img/uploads/icon.png",
   "store_id": 51374,
-  "description": "Simples ou sofisticados, convites para sonhar!",
+  "description": "Loja de convites para eventos sociais e papelaria personalizada.",
   "large_icon": "/img/uploads/large-icon.png"
 }
