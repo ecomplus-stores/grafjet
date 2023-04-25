@@ -1,5 +1,5 @@
 {
-  "css": ".header {\n    background: rgb(36 17 2);\n    border-bottom: 1px solid #7e6020;\n    box-shadow: var(--box-shadow-sm);\n    padding: var(--spacer-1);\n    position: sticky;\n    top: 0;\n    width: 100%;\n    z-index: 900;\n}",
+  "css": ".header {\n    background: rgb(36 17 2);\n    border-bottom: 1px solid #7e6020;\n    box-shadow: var(--box-shadow-sm);\n    padding: var(--spacer-1);\n    position: sticky;\n    top: 0;\n    width: 100%;\n    z-index: 900;\n}\n.header__category:hover {\n    background: white;\n    text-decoration: none;\n}",
   "html_head": "",
   "html_body": ""
 }
