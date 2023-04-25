@@ -20,17 +20,16 @@
       "/convites?CASAMENTO",
       "/casamento?15 ANOS",
       "/aniversario?ANIVERSÁRIO",
-      "/corporativos?ACESSÓRIOS",
+      "/corporativos?CORPORATIVOS",
       "/infantil?INFANTIL",
-      "/brabat-mitzva?BAR/BAT MITZVÁ",
-      "/debutante-classica?Debutante Clássica"
+      "/brabat-mitzva?BAR/BAT MITZVÁ"
     ],
     "random": 0,
     "full_width": false
   },
   "desktop_megamenu": false,
   "search_input": false,
-  "alphabetical_order_submenu": false,
+  "alphabetical_order_submenu": true,
   "full_width_submenu": false,
   "centralized_logo": false
 }
