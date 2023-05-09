@@ -4,11 +4,11 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 1000,
       "full_width": true,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
+          "img": "/img/uploads/banner1.png",
           "link": "/headset",
           "alt": "Headset banner",
           "start": "2020-04-11T05:54:06.750Z",
@@ -21,6 +21,11 @@
           "img": "/img/uploads/banner2.webp",
           "alt": "Banner sample two",
           "mobile_img": "/img/uploads/passion.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/rect8589.png"
         }
       ]
     },
