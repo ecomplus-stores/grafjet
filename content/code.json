@@ -1,5 +1,5 @@
 {
-  "css": "/*LOGO CABEÇALHO*/\n.header__logo {\n    max-height: 70px;\n    max-width: 300px;\n    margin-bottom: 10px;\n}\n\n/*MENU PRINCIPAL*/\n.header__nav {\n    font-size: 13PX;\n    line-height: 40PX;\n    text-align: center;\n    text-transform: uppercase;\n}\t\n\n/*CAMPO DE BUSCA*/\n.header__search-input {\n    display: block!important;\n    border-color: #ededed;\n    border: solid;\n    border-width: thin;\n}\n.form-control {\ncolor: #e5c6aa;\n}",
+  "css": "/*LOGO CABEÇALHO*/\n.header__logo {\n    max-height: 70px;\n    max-width: 300px;\n    margin-bottom: 10px;\n}\n\n/*MENU PRINCIPAL*/\n.header__nav {\n    font-size: 13PX;\n    line-height: 40PX;\n    color: #4c2705;\n    text-align: center;\n    text-transform: uppercase;\n}\t\n.header__category{\n    color: #4c2705;\n}\t\n.header__category:hover {\n    background: none;\n}\n/*CAMPO DE BUSCA*/\n.header__search-input {\n    display: block!important;\n    border-color: #ededed;\n    border: solid;\n    border-width: thin;\n}\n.form-control {\ncolor: #e5c6aa;\n}",
   "html_head": "",
   "html_body": ""
 }
