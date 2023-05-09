@@ -20,11 +20,11 @@
       "/brabat-mitzva?BAR/BAT MITZVÁ"
     ],
     "random": 0,
-    "full_width": true
+    "full_width": false
   },
   "desktop_megamenu": false,
   "search_input": true,
   "alphabetical_order_submenu": false,
-  "full_width_submenu": false,
+  "full_width_submenu": true,
   "centralized_logo": false
 }
