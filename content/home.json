@@ -4,28 +4,32 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 1000,
+      "autoplay": 5000,
       "full_width": true,
       "slides": [
         {
-          "img": "/img/uploads/banner1.png",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/headphone.webp"
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/b1.webp",
+          "mobile_img": "/img/uploads/b1m.webp"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
-          "mobile_img": "/img/uploads/passion.webp"
+          "img": "/img/uploads/b2.webp",
+          "mobile_img": "/img/uploads/b2m.webp"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/rect8589.png"
+          "img": "/img/uploads/b5.webp",
+          "mobile_img": "/img/uploads/b5m.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/b6.webp",
+          "mobile_img": "/img/uploads/b6m.png"
         }
       ]
     },
