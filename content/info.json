@@ -1,10 +1,10 @@
 {
   "shipping": {
-    "show": true,
+    "show": false,
     "text": "Enviamos para todo o Brasil"
   },
   "installments": {
-    "show": true,
+    "show": false,
     "text": "Parcele em até 10X"
   },
   "exchange": {
@@ -12,7 +12,7 @@
     "text": ""
   },
   "promo": {
-    "show": true,
+    "show": false,
     "text": "Diferentes promoções ao longo do ano!"
   }
 }
