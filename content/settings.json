@@ -6,9 +6,9 @@
     "bootswatch": "simplex",
     "custom": "_"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#4c2705",
   "repository": "ecomplus-stores/grafjet",
-  "logo": "/img/uploads/logo_dourado.png",
+  "logo": "/img/uploads/logo_marrom.png",
   "name": "Grafjet Convites",
   "short_name": "Grafjet Convites",
   "lang": "pt_br",
