@@ -22,18 +22,6 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/b5.webp",
-          "mobile_img": "/img/uploads/b5m.webp"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/b6.webp",
-          "mobile_img": "/img/uploads/b6m.png"
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/b3.webp",
           "mobile_img": "/img/uploads/b3m.webp"
         },
@@ -42,6 +30,18 @@
           "end": "",
           "img": "/img/uploads/b4.webp",
           "mobile_img": "/img/uploads/b4m.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/b5.webp",
+          "mobile_img": "/img/uploads/b5m.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/b6.webp",
+          "mobile_img": "/img/uploads/b6m.png"
         }
       ]
     },
