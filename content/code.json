@@ -1,5 +1,5 @@
 {
-  "css": ".header__logo {\n    max-height: 70px;\n    max-width: 300px;\n}",
+  "css": "/*LOGO CABEÇALHO*/\n.header__logo {\n    max-height: 70px;\n    max-width: 300px;\n}\n\n/*MENU PRINCIPAL*/\n.header__nav {\n    font-size: 13PX;\n    line-height: 40PX;\n    text-align: center;\n    text-transform: uppercase;\n}",
   "html_head": "",
   "html_body": ""
 }
