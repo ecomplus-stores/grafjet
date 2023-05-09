@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": ".header__logo {\n    max-height: 70px;\n    max-width: 300px;\n}",
   "html_head": "",
   "html_body": ""
 }
