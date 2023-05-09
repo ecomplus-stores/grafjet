@@ -6,14 +6,9 @@
     "color": "#ffffff"
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Empresa",
-        "link": "/pages/sobre-nos"
-      }
-    ],
-    "phone_wpp": true,
-    "socials": true
+    "pages": [],
+    "phone_wpp": false,
+    "socials": false
   },
   "categories_list": {
     "featured": [
@@ -29,7 +24,7 @@
   },
   "desktop_megamenu": false,
   "search_input": false,
-  "alphabetical_order_submenu": true,
-  "full_width_submenu": true,
-  "centralized_logo": false
+  "alphabetical_order_submenu": false,
+  "full_width_submenu": false,
+  "centralized_logo": true
 }
