@@ -12,12 +12,13 @@
   },
   "categories_list": {
     "featured": [
-      "/convites?CASAMENTO",
-      "/casamento?15 ANOS",
+      "/casamento?CASAMENTO",
+      "/15anos?15 ANOS",
       "/aniversario?ANIVERSÁRIO",
       "/corporativos?CORPORATIVOS",
+      "/acessorios?ACESSÓRIOS",
       "/infantil?INFANTIL",
-      "/brabat-mitzva?BAR/BAT MITZVÁ"
+      "/barbatmitzva?BAR/BAT MITZVÁ"
     ],
     "random": 0,
     "full_width": true
