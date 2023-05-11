@@ -1,11 +1,6 @@
 {
   "sections": [
     {
-      "type": "page-title",
-      "title": "",
-      "description": ""
-    },
-    {
       "type": "document-banner",
       "enabled": true
     },
@@ -13,10 +8,6 @@
       "type": "category-retail",
       "enabled": true,
       "sort": "sales"
-    },
-    {
-      "type": "document-description",
-      "enabled": true
     }
   ]
 }
