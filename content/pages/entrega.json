@@ -2,5 +2,15 @@
   "title": "Sobre Nós",
   "meta_title": "Sobre Nós",
   "meta_description": "Sobre Nós",
-  "body": "# **Sobre nós**\n\nA Grafjet é uma gráfica especializada em impressos para eventos e papelaria personalizada, fundada em 1990 por Alexandre e Fernanda Graziadio.\n\nPrimando por atendimentos e projetos diferenciados de convites e cartões, usando a criatividade aliada ao desejo dos clientes, traduz em seus impressos a unicidade dos momentos comemorados. Atualizada com o mercado nacional e internacional, oferece uma variada gama de papéis, acessórios e técnicas.\n\nA empresa tem sede e parque gráfico em Porto Alegre e atende todo o Brasil\n\nNavegue pelo site e descubra o que a Grafjet tem a lhe oferecer!"
+  "body": "# **Sobre nós**\n\nA Grafjet é uma gráfica especializada em impressos para eventos e papelaria personalizada, fundada em 1990 por Alexandre e Fernanda Graziadio.\n\nPrimando por atendimentos e projetos diferenciados de convites e cartões, usando a criatividade aliada ao desejo dos clientes, traduz em seus impressos a unicidade dos momentos comemorados. Atualizada com o mercado nacional e internacional, oferece uma variada gama de papéis, acessórios e técnicas.\n\nA empresa tem sede e parque gráfico em Porto Alegre e atende todo o Brasil\n\nNavegue pelo site e descubra o que a Grafjet tem a lhe oferecer!",
+  "sections": [
+    {
+      "type": "custom-html",
+      "html": "<html>\n<body>\n<tr> \n<td width=\"700\" height=\"394\" colspan=\"3\" align=\"center\" valign=\"center\" bgcolor=\"#5F4E3A\">\n          <video id=\"player\" preload=\"metadata\" width=\"100%\" height=\"100%\" src=\"https://grafjet.com.br/imgs/video/grafjet.mp4\" controls=\"\" poster=\"https://grafjet.com.br/imgs/video/grafjet.png\" loop=\"\"></video>\n          </td>\n        </tr>\n </body>\n</html>"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    }
+  ]
 }
