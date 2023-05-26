@@ -14,7 +14,7 @@
     },
     {
       "type": "extra-page",
-      "enabled": true
+      "enabled": false
     },
     {
       "type": "custom-html",
