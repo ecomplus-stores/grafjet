@@ -2,5 +2,15 @@
   "title": "Como Comprar",
   "meta_title": "Como Comprar",
   "meta_description": "Como Comprar",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": ".",
+  "sections": [
+    {
+      "type": "page-title",
+      "title": "Como Comprar"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    }
+  ]
 }
