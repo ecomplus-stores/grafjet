@@ -2,5 +2,19 @@
   "title": "Técnicas de Produção",
   "meta_title": "Técnicas de Produção",
   "meta_description": "Técnicas de Produção",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": ".",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title",
+      "title": "Técnicas de Produção"
+    },
+    {
+      "type": "extra-page",
+      "enabled": false
+    }
+  ]
 }
