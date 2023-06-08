@@ -6,7 +6,28 @@
   "links_1": {
     "list_pages": true,
     "title": "LINKS ÚTEIS",
-    "list": []
+    "list": [
+      {
+        "text": "Termos e Condições",
+        "url": "https://grafjet.netlify.app/pages/termos-e-condicoes"
+      },
+      {
+        "text": " Como Comprar",
+        "url": "https://grafjet.netlify.app/pages/como-comprar"
+      },
+      {
+        "text": " Sobre Nós",
+        "url": "https://grafjet.netlify.app/pages/sobre-nos"
+      },
+      {
+        "text": " Técnicas de Produção",
+        "url": "https://grafjet.netlify.app/pages/tecnicas-de-producao"
+      },
+      {
+        "text": " Política de Privacidade",
+        "url": "https://grafjet.netlify.app/pages/privacidade"
+      }
+    ]
   },
   "links_2": {
     "list_categories": true,
