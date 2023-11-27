@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.46f34a24e1f53b7ec5047e1de610d6a0.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.1abfd0b4714ae23d1384541975572675.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.9cda044516971e39c5464243df831546.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.1aa50fc7be1f443f9139f3ac02cf3681.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.16d8f842589d9c95d3095c79130d1911.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Grafjet Convites",
+  "short_name": "Grafjet Convites",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Loja de convites para eventos sociais e papelaria personalizada.",
+  "background_color": "#241102",
+  "theme_color": "#97721d"
+}
